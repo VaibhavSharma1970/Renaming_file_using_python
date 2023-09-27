@@ -5,7 +5,7 @@ from datetime import datetime
 current_datetime = datetime.now().strftime("%Y-%m-%d %H-%M-%S")
 # print("Current date & time : ", current_datetime)
 
-path = os.chdir("C:\\Users\\user\\OneDrive\\Desktop\\IFPC_PARAM_FILES_SAMPLES")
+path = os.chdir("C:\\Users\\user\\OneDrive\\Desktop\\IFPC_PARAM_FILES_SAMPLES_1")
 current_datetime = datetime.now().strftime("%Y-%m-%d %H-%M-%S")
 
 i = 0
