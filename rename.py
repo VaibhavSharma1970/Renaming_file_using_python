@@ -7,7 +7,7 @@ current_datetime = datetime.now().strftime("%Y-%m-%d %H-%M-%S")
 
 path = os.chdir("C:\\Users\\user\\OneDrive\\Desktop\\IFPC_PARAM_FILES_SAMPLES")
 current_datetime = datetime.now().strftime("%Y-%m-%d %H-%M-%S")
-tomorrow_datetime = current_datetime+datetime.timedelta(days=1)
+
 i = 0
 
 for file in os.listdir(path):
