@@ -27,4 +27,3 @@ with open(file_path, 'w') as file:
     file.writelines(lines)
 
 file.close()
-
